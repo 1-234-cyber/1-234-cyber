@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Imran</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer</h3>
-<img align="right" alt="coding" src="https://www.dreamstime.com/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-image253185016">
+<img align="right" alt="coding" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-234-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="1-234-cyber" /> </p>
